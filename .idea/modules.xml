@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" filepath="$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" filepath="$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" filepath="$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaCourse.iml" filepath="$PROJECT_DIR$/javaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/multipleInheritance/multipleInheritance.iml" filepath="$PROJECT_DIR$/multipleInheritance/multipleInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mutablePrimitiveInInterface/mutablePrimitiveInInterface.iml" filepath="$PROJECT_DIR$/mutablePrimitiveInInterface/mutablePrimitiveInInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/myArray/myArray.iml" filepath="$PROJECT_DIR$/myArray/myArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overrideClone/overrideClone.iml" filepath="$PROJECT_DIR$/overrideClone/overrideClone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overrideEqualsAndHashCode/overrideEqualsAndHashCode.iml" filepath="$PROJECT_DIR$/overrideEqualsAndHashCode/overrideEqualsAndHashCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/references/references.iml" filepath="$PROJECT_DIR$/references/references.iml" />
     </modules>
   </component>
 </project>
