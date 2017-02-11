@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" filepath="$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" />
       <module fileurl="file://$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" filepath="$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" filepath="$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaCourse.iml" filepath="$PROJECT_DIR$/javaCourse.iml" />

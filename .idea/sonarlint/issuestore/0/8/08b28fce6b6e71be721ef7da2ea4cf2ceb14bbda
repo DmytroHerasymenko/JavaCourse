@@ -1,0 +1,11 @@
+
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(Ñ¼¯îüÿÿÿÿ8ğÈù¾¡+
+1squid:S1220""Move this file to a named package.
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ğÈù¾¡+
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(Û×¤®8ğÈù¾¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(Šø°Åÿÿÿÿÿ8ğÈù¾¡+
+1squid:S1700"Rename field "b"(Æ„Ùìÿÿÿÿÿ8ğÈù¾¡+
+Gsquid:S1481"&Remove this unused "a" local variable.(ò†äıÿÿÿÿ8ğÈù¾¡+
+dsquid:S1609"CAnnotate the "C" interface with the @FunctionalInterface annotation(­êÏªüÿÿÿÿ8ğÈù¾¡+
+Vsquid:S1854"5Remove this useless assignment to local variable "a".(ò†äıÿÿÿÿ8ğÈù¾¡+
+vsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "pb".(»ÂäÆ8ğÈù¾¡+

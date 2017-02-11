@@ -1,0 +1,10 @@
+
+Fsquid:S1068"%Remove this unused "a" private field.(¹åÇ¨ûÿÿÿÿ8òŞ§¾¡+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8òŞ§¾¡+
+,squid:S1700"Rename field "b"(Şîçê8òŞ§¾¡+
+Wsquid:S1854"6Remove this useless assignment to local variable "pb".(ú†Ôûÿÿÿÿ8òŞ§¾¡+
+Hsquid:S1481"'Remove this unused "pb" local variable.(ú†Ôûÿÿÿÿ8òŞ§¾¡+
+1squid:S1700"Rename field "a"(¹åÇ¨ûÿÿÿÿ8òŞ§¾¡+
+Gsquid:S1068"&Remove this unused "aa" private field.(éâ²úúÿÿÿÿ8òŞ§¾¡+
+Asquid:S1068"%Remove this unused "b" private field.(Şîçê8òŞ§¾¡+
+1squid:S1220""Move this file to a named package.

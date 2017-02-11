@@ -1,0 +1,11 @@
+
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ÑÑ‡Ô
+<squid:S1214""Move constants to a class or enum.(ç½Ìýÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+Osquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö
+]squid:S1609"CAnnotate the "A" interface with the @FunctionalInterface annotation(ç½Ìýÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Š©š
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢ÁÝ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÑÑ‡Ô
+%squid:S1700"Rename field "a"(ÑÑ‡Ô
+Osquid:S1161":Add the "@Override" annotation above this method signature(¢ÁÝ
