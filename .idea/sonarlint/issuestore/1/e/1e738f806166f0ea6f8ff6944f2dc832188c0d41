@@ -1,0 +1,19 @@
+
+Msquid:S1602",Remove useless curly braces around statement(ûñ•úÿÿÿÿ8ıá”¿¡+
+[squid:S1118":Add a private constructor to hide the implicit public one.(Ì‘ì–ÿÿÿÿÿ8ıá”¿¡+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÿ’‘Îıÿÿÿÿ8ıá”¿¡+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(­ –8ıá”¿¡+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÜÄ™g8ıá”¿¡+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(áÌôÙ8ıá”¿¡+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ıá”¿¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(öàÛûûÿÿÿÿ8ıá”¿¡+
+dsquid:S1609"CAnnotate the "A" interface with the @FunctionalInterface annotation(ç½Ìıÿÿÿÿ8ıá”¿¡+
+Isquid:S1481"(Remove this unused "pa4" local variable.(¾•Íüüÿÿÿÿ8ıá”¿¡+
+Xsquid:S1854"7Remove this useless assignment to local variable "pa4".(¾•Íüüÿÿÿÿ8ıá”¿¡+
+1squid:S1220""Move this file to a named package.
+[squid:S1161":Add the "@Override" annotation above this method signature(öàÛûûÿÿÿÿ8ıá”¿¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(öàÛûûÿÿÿÿ8ıá”¿¡+

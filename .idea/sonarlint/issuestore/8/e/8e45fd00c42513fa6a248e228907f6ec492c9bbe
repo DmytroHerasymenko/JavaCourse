@@ -1,0 +1,9 @@
+
+Rsquid:S1854"8Remove this useless assignment to local variable "set3".(Ðèç©ÿÿÿÿÿ
+msquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ã—Ž½øÿÿÿÿ
+Osquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö
+1squid:S1220""Move this file to a named package.
+Csquid:S1481")Remove this unused "set3" local variable.(Ðèç©ÿÿÿÿÿ
+]squid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(‹øø‚
+Tsquid:S1161":Add the "@Override" annotation above this method signature(Ã—Ž½øÿÿÿÿ
+hsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(‹øø‚

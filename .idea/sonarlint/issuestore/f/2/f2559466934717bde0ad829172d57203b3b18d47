@@ -1,0 +1,13 @@
+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(øÚÿãýÿÿÿÿ8¿Ø ¾¡+
+1squid:S1700"Rename field "a"(¹åÇ¨ûÿÿÿÿ8¿Ø ¾¡+
+Fsquid:S1068"%Remove this unused "a" private field.(¹åÇ¨ûÿÿÿÿ8¿Ø ¾¡+
+,squid:S1700"Rename field "b"(Þîçê8¿Ø ¾¡+
+Gsquid:S1068"&Remove this unused "aa" private field.(éâ²úúÿÿÿÿ8¿Ø ¾¡+
+Gsquid:S1068"&Remove this unused "bb" private field.(·÷¢Ÿÿÿÿÿÿ8¿Ø ¾¡+
+1squid:S1220""Move this file to a named package.
+Asquid:S1068"%Remove this unused "b" private field.(Þîçê8¿Ø ¾¡+
+Vsquid:S1854"5Remove this useless assignment to local variable "p".(ÿÍªÍûÿÿÿÿ8¿Ø ¾¡+
+Gsquid:S1481"&Remove this unused "p" local variable.(ÿÍªÍûÿÿÿÿ8¿Ø ¾¡+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8¿Ø ¾¡+
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(¶ÖèÜ8¿Ø ¾¡+

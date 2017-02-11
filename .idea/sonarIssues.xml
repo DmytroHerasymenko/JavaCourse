@@ -3,12 +3,32 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ImplementationForInners/src/Main.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/breakEncapsulation/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exceptions/src/tryInSingleton/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/exceptions/src/tryWithResources/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/generic/src/Main.java">
           <value>
             <set />
           </value>
@@ -48,6 +68,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../untitled/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled1/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../untitled10/src/Main.java">
           <value>
             <set />
@@ -59,6 +89,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../untitled13/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled2/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../untitled3/src/Main.java">
           <value>
             <set />
           </value>
