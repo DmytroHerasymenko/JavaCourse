@@ -8,12 +8,152 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/dbService/equipmentDAO/EquipmentDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/dbService/knightDAO/KnightDAOImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/Equipment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Boots.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Gloves.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Helmet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Leggings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/MailArmor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Shield.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Shoulders.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/defenceEquipment/Vambraces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Axe.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Dagger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Mace.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Spear.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Sword.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/equipment/weapon/Weapon.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/forge/ForgeImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/knight/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/knight/Knight.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/knight/barracks/BarracksImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/main/Logic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/main/java/ua/study/epam/main/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/test/java/ua/study/epam/forge/ForgeImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/test/java/ua/study/epam/knight/KnightTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectKnight/src/test/java/ua/study/epam/knight/barracks/BarracksImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ImplementationForInners/src/Main.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/breakEncapsulation/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/enum/src/Main.java">
           <value>
             <set />
           </value>
@@ -63,7 +203,72 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Builder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Builder1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Composite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Decorator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Decorator1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/FactoryMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Proxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/Transformer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/factoryMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/references/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../myFirstWebApp/src/main/java/ua/ituniver/servlet/MyServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../reflection/src/main/java/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepikServ/src/test/java/dbService/DBServiceTest.java">
           <value>
             <set />
           </value>

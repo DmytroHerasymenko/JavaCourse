@@ -49,3 +49,15 @@ C
 generic/generic.iml,6/8/68e478c6b7ed438ab2f3e1df4c9f94fdf5242f4e
 E
 generic/src/Main.java,7/4/742740d802b01b07a2829abc969f4cbce8693ba4
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
+I
+exceptions/exceptions.iml,2/1/21156711da5c74b63d37a955bf9fb1942d678152
+W
+'exceptions/src/tryInSingleton/Main.java,5/2/52872b191ab49902fb18d844050e97fc2c03d611
+Y
+)exceptions/src/tryWithResources/Main.java,0/3/03eab40ce8f9a4032c7868882b0a5119f477da6c
+=
+enum/enum.iml,7/3/734ea3577b586a0f22f3599a1ccb8bd4c8cb938b
+B
+enum/src/Main.java,1/f/1f5829ff4de8ab78b6809f9c2359cf0294011e50

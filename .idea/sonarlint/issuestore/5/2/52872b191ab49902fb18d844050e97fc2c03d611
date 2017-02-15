@@ -1,0 +1,13 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¥ÿ™µ8Æ€Íç¢+
+Asquid:S1166"%Either log or rethrow this exception.(”ı¾8Æ€Íç¢+
+Osquid:S1444".Make this "public static instance" field final(åê—÷ıÿÿÿÿ8Æ€Íç¢+
+bsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8Æ€Íç¢+
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¶´©8Æ€Íç¢+
+Œ"squid:ClassVariableVisibilityCheck"TMake instance a static final constant or non-public and provide accessors if needed.(åê—÷ıÿÿÿÿ8Æ€Íç¢+
+Fsquid:S00108")Either remove or fill this block of code.(”ı¾8Æ€Íç¢+
+lsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ËĞöH
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ïÌòç8Æ€Íç¢+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8Æ€Íç¢+
