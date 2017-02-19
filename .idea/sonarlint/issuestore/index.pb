@@ -61,3 +61,19 @@ Y
 enum/enum.iml,7/3/734ea3577b586a0f22f3599a1ccb8bd4c8cb938b
 B
 enum/src/Main.java,1/f/1f5829ff4de8ab78b6809f9c2359cf0294011e50
+E
+patterns/patterns.iml,2/f/2f155f052ae42773a636ca1f02737220f92eb987
+I
+patterns/src/Builder.java,4/b/4b0e51a0d994a73b81c30c37e07118ae26b1a8b1
+M
+patterns/src/Transformer.java,4/a/4adbbb4bc5d34a5d6ce504a0d08e7b285ce115ef
+K
+patterns/src/Composite.java,8/2/822f8095a4cc0cd727589ef32dda07190da81e26
+K
+patterns/src/Singleton.java,a/f/af47f927e722743060189c3026eab40172d0ecd1
+L
+patterns/src/Decorator1.java,f/e/fefc443854d433e5434ee4e094671189d05c0243
+O
+patterns/src/FactoryMethod.java,8/7/87e73e6cc313d660565aa447ccfa01a1afb03a0d
+G
+patterns/src/Proxy.java,7/2/7244d836b593aa9340873fd751d83c23b660ca3e

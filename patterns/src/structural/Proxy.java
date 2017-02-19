@@ -1,3 +1,5 @@
+package structural;
+
 import javafx.util.Pair;
 
 import java.util.HashMap;
