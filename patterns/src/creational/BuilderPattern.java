@@ -1,3 +1,5 @@
+package creational;
+
 /**
  * Created by dima on 15.02.17.
  */
@@ -40,7 +42,7 @@ class SkyScraper extends Building{
     }
 }
 
-abstract class Builder1 {
+abstract class Builder {
     Building building;
     public Building getBuilding(){
         return building;
@@ -50,7 +52,7 @@ abstract class Builder1 {
     public abstract void buildRoof();
 }
 
-class CottageBuilder1 extends Builder1 {
+class CottageBuilder1 extends Builder {
     public CottageBuilder1(){
         building = new Cottage();
     }
@@ -68,7 +70,7 @@ class CottageBuilder1 extends Builder1 {
     }
 }
 
-class SkyScriperBuilder1 extends Builder1 {
+class SkyScriperBuilder1 extends Builder {
     public SkyScriperBuilder1(){
         building = new SkyScraper();
     }
@@ -87,8 +89,8 @@ class SkyScriperBuilder1 extends Builder1 {
 }
 
 class Forman{
-    Builder1 builder1;
-    public Forman (Builder1 builder1){
+    Builder builder1;
+    public Forman (Builder builder1){
         this.builder1 = builder1;
     }
     public void createBuilding(){
@@ -98,9 +100,9 @@ class Forman{
     }
 }
 
-public class Builder {
+public class BuilderPattern {
     public static void main(String[] args) {
-        Builder1 builder1 = new CottageBuilder1();
+        Builder builder1 = new CottageBuilder1();
         Forman forman = new Forman(builder1);
         forman.createBuilding();
         Building building = builder1.getBuilding();

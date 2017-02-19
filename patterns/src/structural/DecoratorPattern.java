@@ -1,3 +1,5 @@
+package structural;
+
 /**
  * Created by dima on 15.02.17.
  */
@@ -38,7 +40,7 @@ class Pattern extends Decorator{
     }
 }
 
-public class Decorator1 {
+public class DecoratorPattern {
     public static void main(String[] args) {
         Element picture = new Picture();
         Element pictureInFrame = new Frame(picture);

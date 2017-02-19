@@ -1,0 +1,8 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Òé‡Š8äÛÔ—¤+
+[squid:S1118":Add a private constructor to hide the implicit public one.(¡¸ºùÿÿÿÿ8ÕˆÔ—¤+
+1squid:S1220""Move this file to a named package.
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(•¬Âù8äÛÔ—¤+
+Zsquid:S1610"9Convert the abstract class "Component" into an interface.(óÀÀÆûÿÿÿÿ8ÕˆÔ—¤+
+ysquid:S1488"]Immediately return this expression instead of assigning it to the temporary variable "plus2".(Ù‰Ÿ£8ÕˆÔ—¤+

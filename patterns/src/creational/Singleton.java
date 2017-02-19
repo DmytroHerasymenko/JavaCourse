@@ -1,3 +1,5 @@
+package creational;
+
 /**
  * Created by dima on 15.02.17.
  */
@@ -7,7 +9,7 @@ public class Singleton {
     }
     public static Singleton getInstance(){
         /*if(instance == null){
-            instance = new Singleton();
+            instance = new creational.Singleton();
         }*/
         return instance;
     }

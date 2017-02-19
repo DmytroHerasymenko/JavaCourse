@@ -1,16 +1,16 @@
 
-csquid:S2259"BNullPointerException might be thrown as 'factory' is nullable here(÷ò´Ëûÿÿÿÿ8šÕ«…¤+
-Psquid:S1610"5Convert the abstract class "Shape" into an interface.(˜”8šÕ«…¤+
-1squid:S1220""Move this file to a named package.
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(öı²Ê8šÕ«…¤+
 Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8šÕ«…¤+
-lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(©½ùÿÿÿÿ8šÕ«…¤+
-Vsquid:S1161":Add the "@Override" annotation above this method signature(â…»»8šÕ«…¤+
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(ÇÔ…úÿÿÿÿ8šÕ«…¤+
+Psquid:S1610"5Convert the abstract class "Shape" into an interface.(˜”8šÕ«…¤+
 Vsquid:S1161":Add the "@Override" annotation above this method signature(Àİì8šÕ«…¤+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(â…»»8šÕ«…¤+
+lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(©½ùÿÿÿÿ8šÕ«…¤+
 V
 squid:S106";Replace this usage of System.out or System.err by a logger.(áæ÷ñ8šÕ«…¤+
 asquid:S1610"EConvert the abstract class "GeometryFigureFactory" into an interface.(ó–ø©8šÕ«…¤+
 Vsquid:S1161":Add the "@Override" annotation above this method signature(â…»»8šÕ«…¤+
+csquid:S2259"BNullPointerException might be thrown as 'factory' is nullable here(÷ò´Ëûÿÿÿÿ8šÕ«…¤+
+1squid:S1220""Move this file to a named package.
 Vsquid:S1161":Add the "@Override" annotation above this method signature(Àİì8šÕ«…¤+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(öı²Ê8šÕ«…¤+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÇÔ…úÿÿÿÿ8šÕ«…¤+

@@ -1,0 +1,5 @@
+
+Ysquid:S1854"=Remove this useless assignment to local variable "entityDTO".(ùƒéª8šèÌ—¤+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¦¥ÛË8šèÌ—¤+
+1squid:S1220""Move this file to a named package.
+Jsquid:S1481".Remove this unused "entityDTO" local variable.(ùƒéª8šèÌ—¤+
