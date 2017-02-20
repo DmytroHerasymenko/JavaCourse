@@ -1,0 +1,13 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(£Íÿ8 Èİ«¥+
+Wsquid:S1213";Move this constructor to comply with Java Code Conventions.(·ºëÙ8 Èİ«¥+
+[squid:S1161":Add the "@Override" annotation above this method signature(¢œñ²ıÿÿÿÿ8 Èİ«¥+
+7squid:S1700"Rename field "handler"(¦Éêµûÿÿÿÿ8 Èİ«¥+
+esquid:S1192"IDefine a constant instead of duplicating this literal "command2" 3 times.(–Ç½õ8èŞ«¥+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Óœ8 Èİ«¥+
+[squid:S1161":Add the "@Override" annotation above this method signature(¢œñ²ıÿÿÿÿ8 Èİ«¥+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(šµ«Ö8èŞ«¥+
+jsquid:S1132"NMove the "command2" string literal on the left side of this string comparison.(–Ç½õ8 Èİ«¥+
+jsquid:S1132"NMove the "command1" string literal on the left side of this string comparison.(æØñİ8 Èİ«¥+

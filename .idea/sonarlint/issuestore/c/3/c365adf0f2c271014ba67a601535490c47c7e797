@@ -1,0 +1,13 @@
+
+T
+squid:S106";Replace this usage of System.out or System.err by a logger.(‘¦×ùÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(Õˆ¼û
+msquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(š€„Šüÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.( ËÚøÿÿÿÿ
+O
+squid:S106";Replace this usage of System.out or System.err by a logger.(˜á¿ß
+Qsquid:S1610"7Convert the abstract class "Element" into an interface.(å“­¾øÿÿÿÿ
+Osquid:S1161":Add the "@Override" annotation above this method signature(Àİì
+Osquid:S1161":Add the "@Override" annotation above this method signature(Àİì
+Osquid:S1161":Add the "@Override" annotation above this method signature(Àİì

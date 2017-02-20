@@ -263,6 +263,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../homework2/src/main/java/task8/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework2/src/main/java/task8/SinglyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework2/src/main/java/task9/DoublyLinkedList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../homework2/src/test/java/task1/figures/ParallelogramTest.java">
           <value>
             <set />
@@ -304,6 +319,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../homework2/src/test/java/task7/BigBangTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework2/src/test/java/task8/MyIteratorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework2/src/test/java/task8/SinglyLinkedListTest.java">
           <value>
             <set />
           </value>
@@ -459,6 +484,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/patterns/src/behavioral/StatePattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/behavioral/Strategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/behavioral/StrategyPattern.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/behavioral/TemplateMethod.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/patterns/src/behavioral/VisitorPattern.java">
           <value>
             <set />
           </value>

@@ -1,0 +1,4 @@
+
+[squid:S1118":Add a private constructor to hide the implicit public one.(Ç¿ª¦úÿÿÿÿ8Ò‡‡¬¥+
+Wsquid:S1854"6Remove this useless assignment to local variable "pa".(¾¿ã’ÿÿÿÿÿ8Ò‡‡¬¥+
+usquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "m".(ƒß‰8Ò‡‡¬¥+

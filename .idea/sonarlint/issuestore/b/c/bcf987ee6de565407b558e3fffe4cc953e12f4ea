@@ -1,0 +1,14 @@
+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ó§‚8Ô»—¬¥+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(Î±Òª8Ô»—¬¥+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¢›©åùÿÿÿÿ8Ô»—¬¥+
+Esquid:S1172")Remove this unused method parameter "ch".(‘é•»8Ô»—¬¥+
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÚŠ…%8Ô»—¬¥+
+[squid:S1118":Add a private constructor to hide the implicit public one.(´ø›¼şÿÿÿÿ8¶ò—¬¥+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(‘é•»8Ô»—¬¥+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(à±±›8Ô»—¬¥+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(íÖŠÇ8Ô»—¬¥+
