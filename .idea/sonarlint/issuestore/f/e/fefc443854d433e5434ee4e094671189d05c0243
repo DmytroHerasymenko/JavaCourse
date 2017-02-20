@@ -1,14 +1,0 @@
-
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(˜á¿ß8»ŒÛ—¤+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(®Ñéä8ÈÄÜ—¤+
-Vsquid:S1161":Add the "@Override" annotation above this method signature(Àİì8»ŒÛ—¤+
-Vsquid:S1161":Add the "@Override" annotation above this method signature(Àİì8»ŒÛ—¤+
-tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(š€„Šüÿÿÿÿ8»ŒÛ—¤+
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(‘¦×ùÿÿÿÿ8»ŒÛ—¤+
-1squid:S1220""Move this file to a named package.
-Vsquid:S1161":Add the "@Override" annotation above this method signature(Àİì8»ŒÛ—¤+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Õˆ¼û8»ŒÛ—¤+
-Xsquid:S1610"7Convert the abstract class "Element" into an interface.(å“­¾øÿÿÿÿ8»ŒÛ—¤+
