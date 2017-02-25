@@ -1,23 +1,23 @@
 
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ß°…8¸Şï¿¡+
+1squid:S1220""Move this file to a named package.
+Ssquid:S1854"7Remove this useless assignment to local variable "pa3".(ÍÜ…®8¸Şï¿¡+
+psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
 psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
 ^squid:S2094"BRemove this empty class, write its code or make it an "interface".(Ã™ÄÏ8¸Şï¿¡+
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸Şï¿¡+
-Hsquid:S1481"'Remove this unused "rf" local variable.(ò»¿¦ÿÿÿÿÿ8¸Şï¿¡+
 qsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(Ô¹ª­8ˆşø¿¡+
-Csquid:S1481"'Remove this unused "rw" local variable.(ïµş¶8¸Şï¿¡+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8¸Şï¿¡+
 psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
+Csquid:S1481"'Remove this unused "rw" local variable.(ïµş¶8¸Şï¿¡+
 V
 squid:S106";Replace this usage of System.out or System.err by a logger.(ß°…8¸Şï¿¡+
-Wsquid:S1854"6Remove this useless assignment to local variable "rf".(ò»¿¦ÿÿÿÿÿ8¸Şï¿¡+
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Şï¿¡+
-1squid:S1220""Move this file to a named package.
 Rsquid:S1854"6Remove this useless assignment to local variable "rw".(ïµş¶8¸Şï¿¡+
-Xsquid:S1854"7Remove this useless assignment to local variable "pa1".(¤¯‡›ùÿÿÿÿ8¸Şï¿¡+
 Wsquid:S1854"6Remove this useless assignment to local variable "pa".(¾¿ã’ÿÿÿÿÿ8¸Şï¿¡+
-psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
-psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8¸Şï¿¡+
-Ssquid:S1854"7Remove this useless assignment to local variable "pa3".(ÍÜ…®8¸Şï¿¡+
 vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(‘Â±öÿÿÿÿÿ8‘è÷¿¡+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¸Şï¿¡+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¸Şï¿¡+
+psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8¸Şï¿¡+
+Wsquid:S1854"6Remove this useless assignment to local variable "rf".(ò»¿¦ÿÿÿÿÿ8¸Şï¿¡+
+Xsquid:S1854"7Remove this useless assignment to local variable "pa1".(¤¯‡›ùÿÿÿÿ8¸Şï¿¡+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ß°…8¸Şï¿¡+
+Hsquid:S1481"'Remove this unused "rf" local variable.(ò»¿¦ÿÿÿÿÿ8¸Şï¿¡+

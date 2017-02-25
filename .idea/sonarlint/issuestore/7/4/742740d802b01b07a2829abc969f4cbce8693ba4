@@ -1,19 +1,19 @@
 
-Rsquid:S1854"6Remove this useless assignment to local variable "a1".(óŠÑå8ÈÉù¡+
-[squid:S1161":Add the "@Override" annotation above this method signature(¢»½ıÿÿÿÿ8ÈÉù¡+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ÈÉù¡+
-Rsquid:S1854"6Remove this useless assignment to local variable "a2".(Õ¦–Í8ÈÉù¡+
-tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÎÂ®¦ùÿÿÿÿ8ÈÉù¡+
-usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û²½·8ÈÉù¡+
-tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÉü$8ÈÉù¡+
-[squid:S1161":Add the "@Override" annotation above this method signature(ê¿åúÿÿÿÿ8ÈÉù¡+
-isquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¢»½ıÿÿÿÿ8ÈÉù¡+
-zsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ãöéÔşÿÿÿÿ8ÈÉù¡+
-[squid:S1161":Add the "@Override" annotation above this method signature(ÎÂ®¦ùÿÿÿÿ8ÈÉù¡+
 vsquid:S00122"TAt most one statement is allowed per line, but 2 statements were found on this line.(æôüûÿÿÿÿ8ÈÉù¡+
-zsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ê¿åúÿÿÿÿ8ÈÉù¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(ãöéÔşÿÿÿÿ8ÈÉù¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(ê¿åúÿÿÿÿ8ÈÉù¡+
 Csquid:S1481"'Remove this unused "a1" local variable.(óŠÑå8ÈÉù¡+
 Csquid:S1481"'Remove this unused "a2" local variable.(Õ¦–Í8ÈÉù¡+
-[squid:S1161":Add the "@Override" annotation above this method signature(ãöéÔşÿÿÿÿ8ÈÉù¡+
-tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¢»½ıÿÿÿÿ8ÈÉù¡+
+tsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôÉü$8ÈÉù¡+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8ÈÉù¡+
 1squid:S1220""Move this file to a named package.
+Rsquid:S1854"6Remove this useless assignment to local variable "a2".(Õ¦–Í8ÈÉù¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(¢»½ıÿÿÿÿ8ÈÉù¡+
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û²½·8ÈÉù¡+
+tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ÎÂ®¦ùÿÿÿÿ8ÈÉù¡+
+zsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ê¿åúÿÿÿÿ8ÈÉù¡+
+isquid:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¢»½ıÿÿÿÿ8ÈÉù¡+
+[squid:S1161":Add the "@Override" annotation above this method signature(ÎÂ®¦ùÿÿÿÿ8ÈÉù¡+
+zsquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ãöéÔşÿÿÿÿ8ÈÉù¡+
+tsquid:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¢»½ıÿÿÿÿ8ÈÉù¡+
+Rsquid:S1854"6Remove this useless assignment to local variable "a1".(óŠÑå8ÈÉù¡+

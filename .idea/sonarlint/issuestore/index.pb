@@ -95,3 +95,9 @@ Y
 )patterns/src/behavioral/StatePattern.java,b/c/bcf987ee6de565407b558e3fffe4cc953e12f4ea
 V
 &patterns/src/structural/FlyWeight.java,8/5/85e42786ce20b13b28e9ba8790249dc706df1b56
+[
++patterns/src/behavioral/TemplateMethod.java,3/1/313750f2ae18b334b8dfe54cad85fdb4b1399bcb
+[
++patterns/src/behavioral/VisitorPattern.java,9/f/9fd0c1ac47d62774c5c4369d492361eb9dc6e9e9
+\
+,patterns/src/behavioral/StrategyPattern.java,e/c/ecb04ee6512250f90f6b151738b4ceed7c29e517

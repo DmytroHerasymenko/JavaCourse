@@ -1,0 +1,6 @@
+
+Usquid:S1118":Add a private constructor to hide the implicit public one.(Àúòr8æÆÓç¥+
+[squid:S1161":Add the "@Override" annotation above this method signature(íŠ¿úøÿÿÿÿ8Ø€Óç¥+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(€ûí ûÿÿÿÿ8Ø€Óç¥+
+esquid:S1609"IAnnotate the "Visitor" interface with the @FunctionalInterface annotation(îÉÒ8Ø€Óç¥+
