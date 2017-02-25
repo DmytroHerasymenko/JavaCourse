@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" filepath="$PROJECT_DIR$/ImplementationForInners/ImplementationForInners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" filepath="$PROJECT_DIR$/breakEncapsulation/breakEncapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" filepath="$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
@@ -17,7 +19,9 @@
       <module fileurl="file://$PROJECT_DIR$/overrideClone/overrideClone.iml" filepath="$PROJECT_DIR$/overrideClone/overrideClone.iml" />
       <module fileurl="file://$PROJECT_DIR$/overrideEqualsAndHashCode/overrideEqualsAndHashCode.iml" filepath="$PROJECT_DIR$/overrideEqualsAndHashCode/overrideEqualsAndHashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/patterns/patterns.iml" filepath="$PROJECT_DIR$/patterns/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/references/references.iml" filepath="$PROJECT_DIR$/references/references.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
     </modules>
   </component>
 </project>

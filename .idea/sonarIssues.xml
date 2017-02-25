@@ -333,12 +333,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../homework3/src/main/java/task11/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework3/src/main/java/task11/MyPhantomFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework3/src/main/java/task14/ListUnion.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework3/src/main/java/task15/MyPriority.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../homework3/src/test/java/task14/ListUnionTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../injection/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/ImplementationForInners/src/Main.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/annotation/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/breakEncapsulation/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dependencyInjection/src/DependencyInjection.java">
           <value>
             <set />
           </value>
@@ -543,7 +583,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/proxy/src/Proxy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/references/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/reflection/src/Reflection.java">
           <value>
             <set />
           </value>
