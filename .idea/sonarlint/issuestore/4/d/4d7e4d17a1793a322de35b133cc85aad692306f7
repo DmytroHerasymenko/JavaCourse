@@ -1,0 +1,7 @@
+
+csquid:S1132"GMove the "f" string literal on the left side of this string comparison.(³ö¿¬8›ÓÌ£§+
+1squid:S1220""Move this file to a named package.
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¥È™8³Í£§+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8³Í£§+
+dsquid:S1609"CAnnotate the "A" interface with the @FunctionalInterface annotation(ç½Ìıÿÿÿÿ8›ÓÌ£§+

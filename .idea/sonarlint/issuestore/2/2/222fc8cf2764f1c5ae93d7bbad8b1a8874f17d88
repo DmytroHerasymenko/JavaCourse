@@ -1,0 +1,26 @@
+
+Rsquid:S1854"6Remove this useless assignment to local variable "c4".(‡¿‰„8´ïº£§+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(º›ÂŒ8Š±±£§+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªœŠØıÿÿÿÿ8Š±±£§+
+Dsquid:S1481"(Remove this unused "pa5" local variable.(³Ş«Ù8´ïº£§+
+Isquid:S1481"(Remove this unused "pa4" local variable.(——Âÿùÿÿÿÿ8´ïº£§+
+[squid:S1118":Add a private constructor to hide the implicit public one.(²èÑüÿÿÿÿ8Š±±£§+
+Hsquid:S1481"'Remove this unused "c2" local variable.(ó¥ïÿÿÿÿÿÿ8Š±±£§+
+Wsquid:S1854"6Remove this useless assignment to local variable "c2".(ó¥ïÿÿÿÿÿÿ8Š±±£§+
+Xsquid:S1854"7Remove this useless assignment to local variable "pa4".(——Âÿùÿÿÿÿ8´ïº£§+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¥ˆİ8Š±±£§+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¥ˆİ8Š±±£§+
+1squid:S1220""Move this file to a named package.
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÓÃ»üÿÿÿÿ8Š±±£§+
+Csquid:S1481"'Remove this unused "c4" local variable.(‡¿‰„8´ïº£§+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(±Äˆª8´ïº£§+
+Ssquid:S1854"7Remove this useless assignment to local variable "pa5".(³Ş«Ù8´ïº£§+
+1squid:S1700"Rename field "a"(Ş‹®øÿÿÿÿ8èâ°£§+
+=squid:S2129"!Remove this "Integer" constructor(³Ş«Ù8´ïº£§+
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãêœàıÿÿÿÿ8èâ°£§+

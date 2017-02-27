@@ -1,0 +1,13 @@
+
+9squid:S2095"Close this "FileReader".(†áûÿÿÿÿ8¼¨£§+
+[squid:S1118":Add a private constructor to hide the implicit public one.(Ş§Ä¬ùÿÿÿÿ8˜³¨£§+
+1squid:S1220""Move this file to a named package.
+ısquid:S1160"áRefactor this method to throw at most one checked exception instead of: java.io.IOException, java.lang.ClassNotFoundException, java.lang.IllegalAccessException, java.lang.InstantiationException, java.lang.NoSuchFieldException(Á€ÆX8¼¨£§+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(¢Áİ8¼¨£§+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(öı²Ê8¼¨£§+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(¢Áİ8¼¨£§+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(‘Ô¶Œúÿÿÿÿ8¼¨£§+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(Ô·ê8¼¨£§+
+nsquid:S1609"MAnnotate the "MyInterface" interface with the @FunctionalInterface annotation(„’£şÿÿÿÿ8¼¨£§+
