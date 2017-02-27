@@ -148,6 +148,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectTextProcessing/src/main/java/cfg.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectTextProcessing/src/main/java/ua/study/epam/Text.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../epamProjectTextProcessing/src/main/java/ua/study/epam/main/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../fasad/src/main/java/Fasad.java">
           <value>
             <set />
@@ -414,6 +429,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/lambda/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/multithreading/src/ExtendsThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/multithreading/src/ImplRunnable.java">
           <value>
             <set />
           </value>
