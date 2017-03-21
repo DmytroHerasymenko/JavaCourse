@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/references/references.iml" filepath="$PROJECT_DIR$/references/references.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regexp/regexp.iml" filepath="$PROJECT_DIR$/regexp/regexp.iml" />
     </modules>
   </component>
 </project>
