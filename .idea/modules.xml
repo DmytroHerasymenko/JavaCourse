@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" filepath="$PROJECT_DIR$/dependencyInjection/dependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstApp/firstApp.iml" filepath="$PROJECT_DIR$/firstApp/firstApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerClass/innerClass.iml" filepath="$PROJECT_DIR$/innerClass/innerClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" filepath="$PROJECT_DIR$/innerClassInheritance/innerClassInheritance.iml" />
